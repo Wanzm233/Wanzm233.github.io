@@ -8,5 +8,12 @@
 
 你可以在这些地方找到我
 
- [![Wanzm](https://imgse.com/i/p9lMnIS)
-](https://www.luogu.com.cn/user/912777)
+- [洛谷](https://www.luogu.com.cn/user/912777)
+
+- [哔哩哔哩](https://space.bilibili.com/1980734580)
+
+------------
+
+其实我觉得不用模板打一个博客也不是不行
+
+【正在施工】
